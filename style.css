@@ -34,3 +34,41 @@ justify-content: space-evenly ;
 .mainPic{
     width:100%;
 }
+.menuBar{
+    position: relative;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+ 
+
+.subscriptions{
+   width: 10%; float:left; margin: 5px;
+  
+}
+.babyDiapers{
+    width: 10%; float:left; margin: 5px;
+}
+
+.wipes{
+    width: 10%; float:left; margin: 5px;
+}
+.bathBody{
+    width: 10%; float:left; margin: 5px;
+}
+.skinCare{
+    width: 10%; float:left; margin: 5px;
+}
+.makeup{
+    width: 10%; float:left; margin: 5px;
+}
+.babyClothing{
+    width: 10%; float:left; margin: 5px;
+}
+.cleaning{
+    width: 10%; float:left; margin: 5px;
+}
+.giftsKits{
+    width: 10%; float:left; margin: 5px;
+}
+}
